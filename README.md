@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andy-c
-- 👀 I’m interested in php,go,c,java
-- 🌱 I’m currently learning php-internal go-internal
+- 👀 I’m interested in java、php、go
+- 🌱 I’m currently learning java 、go-internal
 - 📫 feel free to contact me  cylbdda@gmail.com
 
 <!---
